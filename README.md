@@ -1,6 +1,6 @@
 [![natterstefan](https://res.cloudinary.com/dgqdvqyz3/image/upload/v1613901740/natterstefan/natterstefan-CI-1500x500.png)][1]
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)][1]
+[![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=0b2749)][1]
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FAC151.svg?logo=typescript&logoWidth=20)](https://github.com/natterstefan)
 [![blogger](https://img.shields.io/badge/Blogger-Follow%20Me-FAC151.svg?logo=hashnode&logoWidth=20)][4]
 [![newsletter](https://img.shields.io/badge/Newsletter-subscribe-%23FAC151.svg?logo=gmail&logoWidth=20)][5]
